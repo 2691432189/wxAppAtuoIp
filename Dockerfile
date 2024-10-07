@@ -4,4 +4,6 @@ WORKDIR /app
 
 COPY . .
 
+CMD ["npm", "install"]
+
 CMD ["node", "index.js"]
