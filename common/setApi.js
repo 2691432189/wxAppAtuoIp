@@ -2,7 +2,7 @@ import { queryConfig } from "./config.js"
 
 export default async function ( cookie, appId, ipList, d2st ) {
     const configFile = await queryConfig()
-    let body = `app_id=${ appId }&_d2st=${ d2st }`
+    let body = `app_id=${ appId }`
 
     ipList?.map( item => body += `&ipList%5B%5D=${ item }` )
 

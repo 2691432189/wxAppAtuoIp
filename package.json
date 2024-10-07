@@ -2,5 +2,6 @@
     "name": "wxAppAtuoIp",
     "type": "module",
     "dependencies": {
+        "dayjs": "^1.11.13"
     }
 }

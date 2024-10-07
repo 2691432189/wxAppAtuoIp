@@ -1,11 +1,10 @@
 {
-  "initIp": "",
-  "cookie": "",
-  "appConfig": [
-    {
-      "app_id": "",
-      "_d2st": ""
-    }
-  ],
-  "listenTime": 200
+    "initIp": "",
+    "cookie": "",
+    "appConfig": [
+        {
+            "app_id": ""
+        }
+    ],
+    "listenTime": 300
 }
