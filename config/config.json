@@ -1,10 +1,10 @@
 {
-    "initIp": "",
-    "cookie": "",
-    "appConfig": [
-        {
-            "app_id": ""
-        }
-    ],
-    "listenTime": 300
+  "initIp": "",
+  "cookie": "",
+  "appConfig": [
+    {
+      "app_id": ""
+    }
+  ],
+  "listenTime": 300
 }
